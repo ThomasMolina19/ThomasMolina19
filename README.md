@@ -1,4 +1,4 @@
-## <div align="center">Hey! 👋</div>  
+## <div align="center">Hello! 👋</div>  
   
 
 
@@ -6,16 +6,11 @@
 ### Glad to see you here!  
 I'm Juan, full-stack software developer studying System's Engineering and Informatics at Universidad Nacional de Colombia. I'm responsible, tolerant, and detail-oriented, passionate about learning and sharing knowledge.    
 
-## Work Experience  
-- Software Developer | SURA/SURAMERICANA | JUN 22 2024 / Nowadays
-
 ## Education  
-- System's engineering and informatics | Universidad nacional de Colombia 
-
-- Software Development Technician | CESDE
+Bachelor of Science in Mathematics | National University of Colombia
 
 ## Projects
-- UnStudy - Educational platform for students of the Universidad Nacional de Colombia (Working on it). [Take a look!](https://juantobonv.github.io/UnStudy/)
+- Encryptors-Alura - Platform for made for alura(Working on it).
 
  
 
@@ -31,7 +26,7 @@ I'm Juan, full-stack software developer studying System's Engineering and Inform
 </div>
 
 ## Certificates  
-- Platzi: [Take a look!](https://drive.google.com/drive/folders/1HLDrQTFnEyAUVLwvQQl_eY138ILmCu2x?usp=sharing)
+- Platzi: 
   <br/>
 
 
