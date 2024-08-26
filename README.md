@@ -3,14 +3,14 @@
 
 
 
-### Glad to see you here!  
-I'm Juan, full-stack software developer studying System's Engineering and Informatics at Universidad Nacional de Colombia. I'm responsible, tolerant, and detail-oriented, passionate about learning and sharing knowledge.    
+### Welcome aboard! Let's dive into data together.  
+Hi, I'm Thomas, a data analyst and machine learning enthusiast studying Mathematics at Universidad Nacional de Colombia. I’m dedicated to exploring and applying analytical techniques, and I love diving into the complexities of machine learning. Responsible, tolerant, and detail-oriented, I’m passionate about learning new things and sharing knowledge with others.
 
 ## Education  
 Bachelor of Science in Mathematics | National University of Colombia
 
 ## Projects
-- Encryptors-Alura - Platform for made for alura(Working on it).
+- Encryptors-Alura - A challenge made for alura(Working on it).
 
  
 
