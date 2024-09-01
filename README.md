@@ -10,6 +10,7 @@ Hi, I'm Thomas, a data analyst and machine learning enthusiast studying Mathemat
 Bachelor of Science in Mathematics | National University of Colombia
 
 ## Projects
+- ChessEngine(Working on it).
 - Encryptors-Alura - A challenge made for alura(Working on it).
 
  
