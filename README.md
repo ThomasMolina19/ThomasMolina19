@@ -9,10 +9,6 @@ Hi, I'm Thomas, a data analyst and machine learning enthusiast studying Mathemat
 ## Education  
 Bachelor of Science in Mathematics | National University of Colombia
 
-## Projects
-- ChessEngine(Working on it).
-- Encryptors-Alura - A challenge made for alura(Working on it).
-
  
 
 
@@ -25,10 +21,6 @@ Bachelor of Science in Mathematics | National University of Colombia
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
-
-## Certificates  
-- Platzi: 
-  <br/>
 
 
 
