@@ -1,51 +1,45 @@
-## <div align="center">Hello! 👋</div>  
-  
+## <div align="center">Hello, I'm Thomas! 👋</div>  
 
+<h3 align="center">Mathematics Student | Data Analyst | Machine Learning Enthusiast</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThomasMolina19&style=for-the-badge&color=orange" alt="Profile Views"/>
+</div>
 
-### Welcome aboard! Let's dive into data together.  
-Hi, I'm Thomas, a data analyst and machine learning enthusiast studying Mathematics at Universidad Nacional de Colombia. I’m dedicated to exploring and applying analytical techniques, and I love diving into the complexities of machine learning. Responsible, tolerant, and detail-oriented, I’m passionate about learning new things and sharing knowledge with others.
+---
 
-## Education  
-Bachelor of Science in Mathematics | National University of Colombia
+### 🧠 About Me  
+Hi! I'm a mathematics student at Universidad Nacional de Colombia with a strong focus on data analysis and artificial intelligence. My background in pure math gives me a deep understanding of the algorithms powering modern Machine Learning. 
 
- 
+I am passionate about translating complex mathematical models into efficient, production-ready code. I consider myself a highly analytical, detail-oriented, and responsible professional, always eager to dive into complex datasets and share knowledge with the community.
 
+* 🔭 **Currently focusing on:** Deep Learning, Statistical Modeling, and advanced Data Analytics.
+* 🌱 **Learning:** Advanced frameworks for Large Language Models (LLMs) and distributed training.
+* 🎓 **Education:** Bachelor of Science in Mathematics | Universidad Nacional de Colombia.
 
-## Languages and Tools  
+---
+
+### 🛠️ Tech Stack & Tools  
+
 <div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-
-
-##
-
-
-<br/>  
-
-##
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMolina19&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThomasMolina19&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
   
+  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="45" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="50" /></a>
+</div>
 
-<br/>  
+---
 
+### 📊 GitHub Stats  
 
-<br />
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMolina19&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img width="800" src="assets/github-snake.svg" alt="Contribution Snake Animation"/>
+</p>
